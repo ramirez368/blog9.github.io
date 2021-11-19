@@ -33,10 +33,7 @@ You can also enforce write-once-read-many (WORM) policies with S3 Object Lock. T
 
 
 
-
-
-
-### I hope this was useful to how to setup Apache Server and being expose to more Linux
+### I hope this was useful information about S3
 
 
 ```
