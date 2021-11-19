@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## [S3 in AWS](https://www.youtube.com/watch?v=e6w9LwZJFIA)
+## [Amazon S3](https://www.youtube.com/watch?v=e6w9LwZJFIA)
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
